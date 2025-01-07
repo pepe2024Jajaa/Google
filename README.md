@@ -1,6 +1,6 @@
 |||NOW UPDATED TO 1.8!!!!!
 
-online version is https://svaaps.github.io/eaglercrafthtml/
+online version is https://chrome.github.io/eaglercrafthtml/
 (online version saves individual worlds too and works just as normal as the local version but you don't have to download anything)
 if you wanna play eaglercraft locally, its in releases
 
